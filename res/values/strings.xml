@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ADKTestProjectActivity!</string>
+    <string name="app_name">ADKTestProject</string>
+    <string name="red_value_text">Red Value is </string>
+    <string name="blue_value_text">Blue Value is</string>
+    <string name="green_value_text">Green Value is</string>
+
+</resources>
