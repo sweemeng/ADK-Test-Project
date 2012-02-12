@@ -210,7 +210,7 @@ public class ADKTestProjectActivity extends Activity implements Runnable, SeekBa
 			break;
 		}
 		// get value, and send it
-		sendCommand(redValue,blueValue,greenValue);
+		sendCommand(redValue,greenValue,blueValue);
 	}
 	public void onStartTrackingTouch(SeekBar seekBar) {
 		// TODO Auto-generated method stub
