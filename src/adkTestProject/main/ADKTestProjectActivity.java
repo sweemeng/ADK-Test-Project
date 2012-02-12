@@ -153,7 +153,7 @@ public class ADKTestProjectActivity extends Activity implements Runnable, SeekBa
     	UsbAccessory[] accessories = mUsbManager.getAccessoryList();
     	// if exist get the first one or give null
     	UsbAccessory accessory = (accessories == null ? null : accessories[0]);
-    	// access exist
+    	// accessory exist
     	if (accessory != null){
     		// check permission
     		if (mUsbManager.hasPermission(accessory)){
